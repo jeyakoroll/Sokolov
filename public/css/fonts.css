@@ -1,0 +1,41 @@
+@font-face {
+			font-family: "OpenSansRegular";
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansBold";
+			src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+			src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+			url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "ArialRegular";
+			src: url("../fonts/ArialRegular/ArialRegular.eot");
+			src: url("../fonts/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArialRegular/ArialRegular.woff") format("woff"),
+			url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "ArialBold";
+			src: url("../fonts/ArialBold/ArialBold.eot");
+			src: url("../fonts/ArialBold/ArialBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArialBold/ArialBold.woff") format("woff"),
+			url("../fonts/ArialBold/ArialBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+
